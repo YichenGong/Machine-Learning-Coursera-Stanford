@@ -1,4 +1,5 @@
 #Machine Learning 
+####Instructed by Andrew Ng on Coursera
 ###Yichen Gong
 
 Assignment | Status | Task
@@ -8,6 +9,8 @@ Assignment | Status | Task
 3 | Complete | Implemented Multiple Logistic Regression, oneVSall algorithm. Implemented Neural Network forward propogation and prediction.
 4 | Complete | Implemented Neural Network Backpropogation Algorithm, reached 99.32% accuracy in handwriting digit recognition
 5 | Complete | Implemented Learning curve, polynomial regression, automatic lambda selection.
+6 | Complete | Implemented SVM with Gaussian Kernels, spam classfication reached 98.5% test accuracy
+
 
 
 
