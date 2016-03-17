@@ -5,13 +5,13 @@
 Assignment | Status | Task
 :------------: | :-------------: | :------------
 1 | Complete  | Implemented linear regression algorithm with two and more features, implemented the gradient descent, and feature normalization algorithm.
-2 | Complete | Implemented Logistic regression
+2 | Complete | Implemented Logistic regression, added regularization
 3 | Complete | Implemented Multiple Logistic Regression, oneVSall algorithm. Implemented Neural Network forward propogation and prediction.
 4 | Complete | Implemented Neural Network Backpropogation Algorithm, reached 99.32% accuracy in handwriting digit recognition
 5 | Complete | Implemented Learning curve, polynomial regression, automatic lambda selection.
 6 | Complete | Implemented SVM with Gaussian Kernels, spam classfication reached 98.5% test accuracy
 7 | Complete | Implemented K-means algorithm, PCA algorithm and reconstruct the information from reduced features.
-
+8 | Complete | Implemented the Anormaly detection algorithm with Gaussian model. Finish collaborative filtering recommendation system.
 
 
 
